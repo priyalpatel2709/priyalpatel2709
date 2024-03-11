@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @priyalpatel2709
-- 👀 I’m interested in ...React, JavaScript
+- 👀 I’m interested in ...React, JavaScript,...Flutter
 - 🌱 I’m currently learning ...React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
